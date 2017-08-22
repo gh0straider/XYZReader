@@ -3,210 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\90bfc83dcee6766a850005141952bd47d8f06700\output\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\416060\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_26d95d36d00707e88481e48992e025c0186a56f6.jar" />
+        revision="25.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\416060\Dropbox\NanoDegree\Projects\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_44d5149dbb7a3e3c8383a6809568fd6cc5d2ea29.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\0d691ee1b46d12d6e50d6cabf341dd40ec6c00df\output\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\416060\.android\build-cache\ab6f98324fbb93fde2fa823d597770a885450987\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_72945fe050095e9638447d7fc884dc7fb1f19c9c.jar" />
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\416060\Dropbox\NanoDegree\Projects\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes_e0d5d720f4b1c9ca8c7bb24c7c283b7ed48dfbab.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\0d691ee1b46d12d6e50d6cabf341dd40ec6c00df\output\jars\classes.jar"
+        jar="C:\Users\416060\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_89b1c255476de6e58966d57351edf5e8caf67e93.jar" />
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\416060\Dropbox\NanoDegree\Projects\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_ab8edfd74d1007e1396067f2b1a6ea2a7687b9c1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\90bfc83dcee6766a850005141952bd47d8f06700\output\jars\classes.jar"
+        jar="C:\Users\416060\.android\build-cache\ce24af841e4a70b73167b7be21369b0bcd3345a5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_07d3e9e920899eb1f31fc2e5c30211cdc1894cd4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\2bd2bae674ecf1a3fbfcb421788e310a35144f16\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_5ae5ee118c1e11d352c51a19bab284e6e2184282.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\b255efd7bec93538f1441eeeec087ee1cddc5b4a\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_8712669197007ac3875a219750b8143bb1bc120f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\a2e8bdd163168d2b721a5a81e487fd8f8a9bcdd0\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_d5443d815c8b02ac48f10084eb7e2a99c7d50f22.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\ac84075adcf8c0331c11161e219b0809eadfc340\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_3b3439c5bfd1cc93f93b73014a467664eee977f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\448d82583e7f470d46a80ffd096935ece7bd8529\output\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_987b6f4d2b685a304662616fddcb39b264dda308.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\f621f82e484998f921d45ce7f060e2709bb39275\output\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_879ddd92c67cb1df6704cd87a94ee781eb9479f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\b3a533e2f575ad647f633ef88af3b5e322f6bf85\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_64260389593440b8586c9ce04c501bb233f9aef7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\ed44366f175ddf0f8cc689f0004b92c187cd4c81\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_13d06c2bad18e8977a70890a35e3e5dcba91dda7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\d6833dc851f27f7a805657b91c0210823704ddae\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_403f32f6240466617676668fa59ffa2c68099fda.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\90c00e04a0abbfe6956bc3b22246802a7d2fd9da\output\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6cc9342a5a6a858b4c66e83f7c96ed493231db57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\glide-3.7.0_cfd81758beef1b32680e711a22db72159a0ec518.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\f621f82e484998f921d45ce7f060e2709bb39275\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_cd3855bf9dd18321e43cda71a01141282d3ed22d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\90c00e04a0abbfe6956bc3b22246802a7d2fd9da\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_19933444560f5edcb5ac7877296d02d818cb890a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c03d85be44b2a50dd3e1112f47c848b4f52ff92c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\ed44366f175ddf0f8cc689f0004b92c187cd4c81\output\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bae75ddc210f8dfdfa63d0f47741e2927742af78.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\520d281ae72e0d93350a73643054792047384fb3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_cfce1ebf438ed7c2e8c0888d149a195b189b47a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\448d82583e7f470d46a80ffd096935ece7bd8529\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_c80560c7d7f0fee830307a90bb0c05027f01137b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\03eca2df40a2ed756e9897b3cd52a220ab309836\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_3b3ad1c1a3590da971339df114ba927ca88b3330.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gary_\.android\build-cache\2b4d82856e0e3bd66d00e5fb43932dcbfb5d7590\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
-        <dex dex="C:\Users\gary_\Dropbox\NanoDegree\Projects\Samples\XYZ-Reader-master3\XYZReader\build\intermediates\pre-dexed\debug\classes_81ea6a0813c708d18b9065ec473c16ee3fac9f26.jar" />
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\416060\Dropbox\NanoDegree\Projects\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes_291901b766457bd277e7dd1bde73d305386df8bc.jar" />
     </item>
 
 </items>

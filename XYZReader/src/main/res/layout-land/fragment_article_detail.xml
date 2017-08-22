@@ -43,9 +43,9 @@
                 android:id="@+id/detail_toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
+                android:paddingTop="5dp"
                 app:layout_collapseMode="pin"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                />
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
@@ -58,6 +58,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/nested_scroll_margin_top"
         android:fitsSystemWindows="true"
+        android:transitionGroup="true"
         android:forceHasOverlappingRendering="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         >
